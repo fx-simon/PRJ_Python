@@ -3,6 +3,7 @@
 # W = 1.15221034
 # b = -14.85416169
 
+# 
 import numpy as np
 
 x_data = np.array([2,4,6,8,10,12,14,16,18,20]).reshape(10,1)
